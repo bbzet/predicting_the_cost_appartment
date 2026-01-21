@@ -6,6 +6,9 @@ The main goal of the project is to identify key factors influencing housing pric
 
 The project covers the complete data science workflow: data collection, data cleaning, exploratory data analysis, feature engineering, modeling, and evaluation.
 
+## 📊 Data Source
+```https://www.kaggle.com/competitions/predicting-the-cost-of-apartments/overview```
+
 ---
 
 ## 🛠️ Tech Stack
