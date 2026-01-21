@@ -126,7 +126,7 @@ git clone https://github.com/bbzet/predicting_the_cost_appartment
 ```
    pip install -r requirements.txt
 ```
-3. Run the Jupyter notebooks directory sequentially.
+3. Run the Jupyter analyse_modeling.ipynb directory sequentially.
 
 Baiastan Zamirbekov
 Data Science | Machine Learning | Python
